@@ -1,2 +1,2 @@
 # realestate
-ML models pretaining to realestate datasets and models utilization
+ML models pertaining to realestate datasets and various models utilization.
